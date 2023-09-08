@@ -1,0 +1,78 @@
+[
+    {
+        "_id": "64fb31108d10aab44002666a",
+        "groupName": "Higgins",
+        "members": [
+            "Barnes",
+            "Lorrie",
+            "Pennington",
+            "Aisha",
+            "Juarez",
+            "Pearson",
+            "Candy",
+            "Sims"
+        ]
+    },
+    {
+        "_id": "64fb31108ddabcfa17ed2f81",
+        "groupName": "Kelsey",
+        "members": [
+            "Landry",
+            "Lowery",
+            "Avery",
+            "Mayer",
+            "Hattie",
+            "Shanna",
+            "Stokes",
+            "Thompson",
+            "Barrett",
+            "Tasha"
+        ]
+    },
+    {
+        "_id": "64fb3110a22bfdbe8527fe23",
+        "groupName": "Robyn",
+        "members": [
+            "Cherry",
+            "Farmer",
+            "Sparks",
+            "Latoya",
+            "Porter",
+            "Aimee",
+            "Terri",
+            "Richard",
+            "Mckay",
+            "Celeste"
+        ]
+    },
+    {
+        "_id": "64fb3110523300fc01799219",
+        "groupName": "Leila",
+        "members": [
+            "Cathleen",
+            "Charity",
+            "Patel",
+            "Day",
+            "Calderon",
+            "Mcneil",
+            "Campos",
+            "Huffman"
+        ]
+    },
+    {
+        "_id": "64fb31102d9405fbc988304a",
+        "groupName": "Irma",
+        "members": [
+            "Cecelia",
+            "Dorsey",
+            "Brown",
+            "Barton",
+            "Rich",
+            "Branch",
+            "Marsha",
+            "Richmond",
+            "Jana",
+            "Bishop"
+        ]
+    }
+]
